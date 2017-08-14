@@ -1,0 +1,119 @@
+.banner-1{
+	background: #187ec6;
+	margin: 10px 0px 0px 0px;
+}
+.banner-2{
+	width: 980px;
+	height: 336px;
+	margin: 0px auto;
+}
+.links-3{
+	background: #5ba2dd;
+	width: 100%;
+	height: 90px;
+}
+.links-4{
+	width: 980px;
+	margin: 0px auto;
+}
+.links-4{
+	overflow: hidden;
+	*zoom:1;
+}
+.links-4 li{
+	width: 245px;
+	float: left;
+	height: 90px;
+	text-align: center;
+}
+.links-4 a{
+	display: block;
+	padding: 9px 0px;
+	color: #318ac2;
+}
+.links-4 a:hover{
+	background: url(../images/jtda-hover_07.png);
+	color: #fff;
+}
+#leida{
+	background: url(../images/jtda-hover_07.png);
+	color: #fff;
+}
+.cont1-1{
+	background: url(../images/cont-bg_07.png) repeat-x;
+	width: 100%;
+	height: 338px;
+}
+.cont1-2{
+	width: 980px;
+	margin: 0px auto;
+	overflow: hidden;
+	*zoom:1;
+}
+.cont1-left,.cont2-left{
+	float: left;
+	width: 495px;
+	height: 338px;
+}
+.cont1-left h1{
+	font-weight: normal;;
+	padding: 95px 74px 25px 0px;
+	color: #565656;
+}
+.cont1-left p{
+	padding-right: 74px;
+	color: #565656;
+}
+.cont1-right,.cont2-right{
+	float: left;
+	width: 485px;
+	height: 338px;
+}
+.cont1-right img{
+	padding-top: 60px;
+}
+.cont2-1{
+	width: 100%;
+	height: 338px;
+	background: url(../images/cont-bg_07.png) repeat-x;
+}
+.cont2-2{
+	width: 980px;
+	margin: 0px auto;
+	overflow: hidden;
+	*zoom:1;
+	height: 338px;
+}
+.cont2-left img{
+	padding-top: 60px;
+	padding-left: 0px;
+}
+.cont2-right h1{
+	padding: 95px 0px 25px 0px;
+	color: #565656;
+	font-weight: normal;
+}
+.cont2-right p{
+	padding-right:55px;
+	color: #565656; 
+}
+.footer-1{
+	background:url(../images/footer_02.png) repeat-x;
+	width: 100%;
+	height: 194px;
+}
+.footer-2{
+	width: 980px;
+	margin: 0px auto;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 70px;
+	color: #fff;
+	font-size: 12px;
+}
+.footer-2 a{
+	color: #fff;
+}
+.footer-2 p{
+	padding: 5px 0px;
+}
